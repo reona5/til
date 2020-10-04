@@ -5,6 +5,7 @@
 ## CodePipeline
 
 完全マネージド型の継続的デリバリーサービス
+CodeXX だけでなく、 ECS などにも利用することができる
 
 ### CodeCommit
 
